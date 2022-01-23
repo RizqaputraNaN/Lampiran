@@ -1,0 +1,219 @@
+body
+{
+    height: 100vh;
+    margin: 20px;
+    background-color: #6495ed;
+}
+.lampiran  
+{
+    background-color: #Fff;
+    margin: 0 auto;
+    height: 2100px;
+}
+hr {
+  border: 0;
+  border-top: 5px double #000000;
+  width: 100%;
+  text-align: center;
+}
+.head .head-top
+{
+    padding: 5px;
+    gap: 100px;
+    display: flex;
+}
+.head .head-mid
+{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.head .head-mid .center
+{
+    text-align: center;
+    align-items: center;
+    font-size: 12px;
+    line-height: 25px;
+    padding-top: 20px;
+}
+.head .head-mid .right
+{
+    padding: 50px 20px;
+}
+.head .head-mid .left
+{
+    padding: 50px 20px;
+}
+.head .head-mid img
+{
+    height: 100px;
+    width: auto;
+}
+
+.head .head-bot
+{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+.head .head-bot .text-top
+{
+    justify-content: center;
+    display: flex;
+    height: 50px;
+}
+.head .head-bot .text-top .telpon
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.head .head-bot .text-top .telpon img
+{
+    height: 20px;
+}
+.head .head-bot .text-top .pos  
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.head .head-bot .text-top .pos img
+{
+    height: 20px;
+}
+.head .head-bot .text-bot
+{
+    margin-top: -20px;
+}
+
+.lampiran .body
+{
+    margin-top: -30px;
+}
+.lampiran .body .body-top h5
+{
+    padding-top: 10px;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.lampiran .body .body-data
+{
+    display: flex;
+    width: 950px;
+    margin: 0 auto;
+}
+.lampiran .body .body-data .left
+{
+    width: 250px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.lampiran .body .body-data .left .wali
+{
+    margin-left:40px;
+}
+.lampiran .body .body-data .right
+{
+    text-transform: capitalize;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.lampiran .body .body-data .right .bold
+{
+    font-style: italic;
+    font-weight: bold;
+}
+.lampiran .body .body-bot
+{
+    width:800px;
+    margin: 0 auto;
+}
+.lampiran .body .body-bot table
+{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 100%;
+    font-size: 20px;
+}
+.lampiran .body .body-bot table, th, td
+{
+    border: 1px solid black;
+}
+.lampiran .body .body-bot table tr th
+{
+    width: 80%;
+    padding: 10px;
+}
+.lampiran .body .body-bot table tr td .content
+{
+    padding-left: 10px;
+    padding-top: 20px;
+    line-height: 0px;
+}
+.lampiran .body .body-bot table tr td h3
+{
+    padding-left: 10px;
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-bottom: -5px;
+}
+.lampiran .body .body-bot .content
+{
+    display: flex;
+    margin-top: -30px;
+    margin-left: 20px;
+}
+.lampiran .body .body-bot .content .body-content-kiri
+{
+    padding-right: 50px;
+}
+.lampiran .body .body-bot .content .body-content-kiri .anak
+{
+    padding-left: 15px;
+}
+.lampiran .body .body-bot .miring
+{
+    line-height: 10px;
+    font-weight: bold;
+    font-size: medium;
+    font-style: italic;
+    padding-left: 20px;
+}
+.lampiran .footer
+{
+    gap: 20px;
+    padding-top: 20px;
+    width: 950px;
+    margin: auto;
+    font-size: 20px;
+    display: flex;
+}
+.lampiran .footer .left
+{
+    margin-right: 200px;
+    width: 300px;
+}
+.lampiran .footer .foto
+{
+    height: 4cm;
+    width: 3cm;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lampiran .footer .right
+{
+    width: 350px;
+}
